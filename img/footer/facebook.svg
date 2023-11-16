@@ -1,0 +1,25 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#E5E5E5"/>
+<g id="Desktop" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="6256" transform="translate(-1280 -6132)" fill="white"/>
+<g id="Frame">
+<path id="Rectangle" d="M-1280 -528H160V124H-1280V-528Z" fill="black"/>
+<g id="Frame_2">
+<g id="Frame_3">
+<g id="Frame_4">
+<g id="IMAGE">
+<g id="Facebook-Icon-Light">
+<path id="Path" d="M17.625 7.7714H13.7902V5.2806C13.7902 4.34518 14.4182 4.12573 14.8582 4.12573H17.5586V0.0137159L13.8344 0C9.70352 0 8.76556 3.06686 8.76556 5.03098V7.7714H6.375V12.0069H8.76556V24H13.7929V12.0096H17.1851L17.625 7.7714Z" fill="#C0C0C0"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="6256" fill="white" transform="translate(-1280 -6132)"/>
+</clipPath>
+</defs>
+</svg>
